@@ -1,0 +1,40 @@
+/* CSS files add styling rules to your content */
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Dancing+Script:wght@700&family=Patrick+Hand&display=swap");
+body {
+  font-family: "Patrick Hand", cursive;
+  margin: 2em;
+  background-color: #f1faee;
+}
+
+h1 {
+  font-style: italic;
+  color: #e63946;
+  font-family: "Dancing Script", cursive;
+  font-size: 60px;
+  text-align: center;
+}
+h3 {
+  color: #06d6a0;
+  font-family: "Balsamiq Sans", cursive;
+}
+img {
+  border-radius: 8px;
+  width: 40%;
+  height: 35%;
+}
+
+div {
+  color: #457b9d;
+  padding: 10px;
+  width: 40%;
+  height: 35%;
+  text-align: justify;
+  font-size: 20px;
+  background-color: lightgrey;
+  border: 15px solid #7b2cbf;
+  margin: 20px;
+  float: right;
+}
+.country {
+  color: #ee6055;
+}
